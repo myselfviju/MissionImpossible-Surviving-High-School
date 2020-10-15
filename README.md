@@ -12,6 +12,9 @@ Have fun geeking!
 
 This repository is for 15-18 year olds so it has a pretty stringent rules and regulations
 1) No form of harassment will not be tolerated and the person will be permanantly revoked from accessing this repo for life.
+
+2) Any collaborator who haven't collaborated in more than a month will be removed as a collaborator and will be granted access only to view the files and not edit them.
+
 Note:
 This is a pretty serious platform for learning so pls don't upload useless stuff and only use pull request when its absolutely necessary.
 [Still working on the rules, so until then those are the only thing that we you have to keep in mind]
