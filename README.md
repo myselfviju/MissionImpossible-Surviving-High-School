@@ -1,7 +1,7 @@
 # MissionImpossible-Surviving-High-School
 
 ## ABOUT
-Hey welcome to one and only(that I know of) github repository for class 11 students
+Hey welcome to one and only(that I know of) github repository for class 12 students
 This repo is exclusively made for CPS-Ann students
 This is not an official github repository of cps, but as they didn't make one we as a group of students decided to make one
 This is a totally croudsourced repo. 
